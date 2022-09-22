@@ -1,7 +1,7 @@
 - 👋 Hi there. Me chamo Guilherme mas pode me chamar de Gui.
 - 👀 Filme favorito : Interestelar 
 - 🌱 Sou estudante de ADS e apaixonado por python!
-- 💞️ Quero seguir no backend.
+- 💞️ Quero seguir no back-end.
 - 📫 Segue meu email guimcordoba@hotmail.com e meu linkedin https://www.linkedin.com/in/guilherme-cordoba-07665193/
 
 <!---
