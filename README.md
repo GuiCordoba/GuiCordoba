@@ -6,7 +6,7 @@
   </h1>
   
   <p align="center">
-    Sou formado em Engenharia Civil mas no momento estou estudando de Análise e Desenvolvimento de Sistemas e gostaria de migrar para a área de Ciência de Dados.
+    Sou formado em Engenharia Civil mas no momento estou estudando  Análise e Desenvolvimento de Sistemas e procuro minha primeira oportunidade na área de TI.
     <a href="https://www.youtube.com/channel/UCViaNBT0SIeiVnZSEEtIfjw?sub_confirmation=1" target="_blank">
        
   </p>
